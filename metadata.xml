@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Kingdom of Georgia</dc:title>
+      <dc:creator>John Oliver Wardrop (1864–1948)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2015-03-04</dc:publisher>
+      <dc:date>2015-03-04</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans for this work are available from the Internet Archive (copy 1).
+</dc:rights>
+      <dc:subject>Georgia (Republic) - Description and travel</dc:subject>
+      <dc:subject>Georgia (Republic) - Bibliography</dc:subject>
+      <dc:identifier>pg:48403</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
